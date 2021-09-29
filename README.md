@@ -59,9 +59,9 @@ _이텔릭_
 
 ![]()
 
-![FROSTBITE](https://media.contentapi.ea.com/content/dam/eacom/en-us/common/frostbite-logoimage-img.png)
+![STEAM](https://store.cloudflare.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016)
 
-[![FROSTBITE](https://media.contentapi.ea.com/content/dam/eacom/en-us/common/frostbite-logoimage-img.png)](https://www.ea.com/frostbite)
+[![STEAM](https://store.cloudflare.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016)](https://store.steampowered.com/)
 
 # 인용문(BlockQuote)
 
@@ -127,7 +127,7 @@ fixed | 뷰포트 | X
 
 ---
 
-<img width="150" src="https://media.contentapi.ea.com/content/dam/eacom/en-us/common/frostbite-logoimage-img.png" alt="FROSTBITE" />
+<img width="150" src="https://store.cloudflare.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016" alt="STEAM" />
 
 # 수평선(Horizontal Rule)
 
